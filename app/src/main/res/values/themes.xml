@@ -44,4 +44,17 @@
         <item name="android:layout_height">@dimen/textViewHeight</item>
         <item name="android:textSize">@dimen/textSize</item>
     </style>
+
+    <style name="ToggleButtonStyle">
+
+    </style>
+
+    <style name="Theme.MyTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MyTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MyTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

@@ -7,5 +7,8 @@
     <dimen name="textSize">30sp</dimen>
     <dimen name="horizontalBias">0.5</dimen>
     <dimen name="editTextEms">10</dimen>
+    <dimen name="textViewMargin">10dp</dimen>
+    <dimen name="viewPadding">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 
 </resources>
